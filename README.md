@@ -6,7 +6,7 @@ I have more than 5 years of work experience as QA was working before as an Asset
 I have strong experience in testing APIs, and data integrity for a fintech prior to my work as QA for an international ticketing platform. 
 Prior to tech I was a private equity fund manager Financial analyst. 
 
-###Skills:
+### Skills:
  
  . Postman
  . SQL

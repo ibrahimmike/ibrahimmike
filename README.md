@@ -1,6 +1,3 @@
-### Hi there 👋
-I am Ibrahim
-#### Manaul and Automation QA engineer 
 ### Hi there 👋, my name is Ibrahim
 #### Manaul and Automation QA engineer 
 ![Manaul and Automation QA engineer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
@@ -18,7 +15,9 @@ Skills: Postman /SQL /JAVA /JAVASCRIPT /Docker /New Relic /Fiddler /BashScriptin
 - ⚡ Fun fact: I am very fun to work with  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ibrahim-shabana-061b95196//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ibrahim-shabana-061b95196//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ibrahimmike.github.io/CV/)  
+
+
 
 
 

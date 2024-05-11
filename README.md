@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Hi there 👋, my name is Ibrahim
+I am Ibrahim
 #### Manaul and Automation QA engineer 
 ### Hi there 👋, my name is Ibrahim
 #### Manaul and Automation QA engineer 

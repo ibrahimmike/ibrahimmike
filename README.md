@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### Hi there 👋, my name is Ibrahim
 #### Manaul and Automation QA engineer 
+### Hi there 👋, my name is Ibrahim
+#### Manaul and Automation QA engineer 
 ![Manaul and Automation QA engineer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I have more than 5 years of work experience as QA was working before as an Asset manager private Equity fund management, so I have a good background in finance as well. 
@@ -9,7 +11,15 @@ Prior to tech I was a private equity fund manager Financial analyst.
 
 Skills: Postman /SQL /JAVA /JAVASCRIPT /Docker /New Relic /Fiddler /BashScripting /System Administration
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Freelance 
+- 🌱 I’m currently learning Appium 
+- 💬 Ask me about Anything 
+- 📫 How to reach me: Telegram 
+- ⚡ Fun fact: I am very fun to work with  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ibrahim-shabana-061b95196//)  
+
 
 
 

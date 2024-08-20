@@ -27,7 +27,7 @@ Prior to tech I was a private equity fund manager Financial analyst.
  - Appium
 
 
-- 🌱 I’m currently learning Appium 
+
 - 💬 Ask me about Anything 
 - 📫 How to reach me: Telegram 
 - ⚡ Fun fact: I am very fun to work with  

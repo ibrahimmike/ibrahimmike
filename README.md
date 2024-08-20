@@ -33,4 +33,4 @@ Prior to tech I was a private equity fund manager Financial analyst.
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimmike)](https://github.com/anuraghazra/github-readme-stats)
+

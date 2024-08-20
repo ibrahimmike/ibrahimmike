@@ -16,15 +16,15 @@ Prior to tech I was a private equity fund manager Financial analyst.
  . Fiddler
  . BashScripting
  . System Administration
- - AWS
- - Cross Browser testing
- - Rest Assured
- - BDD cucumber
- - GitLab
- - Frontend, API automation testing.
- - Jenkins
- - CICD
- - Appium
+ . AWS
+ . Cross Browser testing
+ . Rest Assured
+ . BDD cucumber
+ . GitLab
+ . Frontend, API automation testing.
+ . Jenkins
+ . CICD
+ . Appium
 
 
 
